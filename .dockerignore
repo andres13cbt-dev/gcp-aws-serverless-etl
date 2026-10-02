@@ -1,0 +1,12 @@
+.git
+.gitignore
+.dockerignore
+.env
+venv/
+env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+terraform/
+README.md
